@@ -3,7 +3,7 @@ Software project to manage, mentor libraries, and ease searching, adding, and re
 
 
 ## Project Notes
-### LOGIN DETAILS FOR THE LIBRARIAN:
-### Password : pass
+##### Login details for the librarian:
+##### Password : pass
 
-### >> NOTE: THE DATE SHOULD BE PROVIDED IN THE FORMAT OF (DAY MONTH YEAR) WITH NO SPECIAL CHARACTERS, IT SHOULD BE SEPARATED BY SPACE.
+##### >> NOTE: The date should be provided in the format of (Day Month Year) with no special characters, it should be separated by space.
